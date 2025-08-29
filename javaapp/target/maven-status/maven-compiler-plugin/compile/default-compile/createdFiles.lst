@@ -1,0 +1,4 @@
+com\example\javaapp\model\GenerateWebhookRequest.class
+com\example\javaapp\JavaappApplication.class
+com\example\javaapp\runner\StartupRunner.class
+com\example\javaapp\service\WebhookService.class
